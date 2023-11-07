@@ -15,7 +15,7 @@ New Change
 New Change
 
 
-Bug Fixed!
+Three bugs fixed!!
 
 
 Active Branch
